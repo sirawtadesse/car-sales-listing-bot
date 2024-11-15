@@ -19,5 +19,5 @@ A Telegram bot for listing and managing car sales. This bot allows users to view
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/car-sales-listing-bot.git
+   git clone https://github.com/sirawtadesse/car-sales-listing-bot.git
    cd bot
